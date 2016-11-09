@@ -9,11 +9,11 @@ group("src") {
     "//apps/media/src/decode",
     "//apps/media/src/demux",
     "//apps/media/src/ffmpeg",
+    "//apps/media/src/fidl",
     "//apps/media/src/flog_service",
     "//apps/media/src/framework",
     "//apps/media/src/framework_create",
     "//apps/media/src/media_service",
-    "//apps/media/src/mojo",
     "//apps/media/src/util",
   ]
 }
