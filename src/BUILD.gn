@@ -14,7 +14,6 @@ group("src") {
     "//apps/media/src/framework",
     "//apps/media/src/framework_create",
     "//apps/media/src/media_service",
-    "//apps/media/src/net",
     "//apps/media/src/util",
     "//apps/media/src/video",
   ]
