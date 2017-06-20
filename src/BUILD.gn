@@ -5,6 +5,7 @@
 group("src") {
   deps = [
     "//apps/media/src/audio",
+    "//apps/media/src/audio_policy_service",
     "//apps/media/src/audio_server",
     "//apps/media/src/decode",
     "//apps/media/src/demux",
